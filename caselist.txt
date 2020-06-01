@@ -1,0 +1,11 @@
+#学生模块信息
+user/testStudentLogin
+#user/testqueryStudentById
+#user/cc
+
+#学校
+#user1/testone
+
+
+
+
